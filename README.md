@@ -9,4 +9,4 @@ Plataforma web para agendamento de consultas médicas. Pacientes marcam horário
 ## Organização
 - Quadro: GitHub Projects (link aqui)
 - Épicos: 2 | Histórias: 6
-- 
+
