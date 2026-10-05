@@ -1,13 +1,12 @@
-# Agenda Fácil
+# ConsultaFácil
+Plataforma web para agendamento de consultas médicas. Pacientes marcam horários com profissionais; profissionais gerenciam sua agenda.
 
-Sistema fictício para encontrar profissionais de saúde e agendar consultas.
+## Squad e papéis
+- Product Owner (PO): SEU NOME, define prioridades e valor de negócio
+- Product Manager (PM): SEU NOME, organiza o backlog, Sprint e o quadro
+- Desenvolvedores: SEU NOME
 
-## Objetivo
-Ajudar pacientes a encontrar profissionais, consultar horários disponíveis e organizar seus agendamentos.
-
-## Papéis da squad
-- Product Owner (PO): Roberta — define prioridades e valor do produto.
-- Product Manager (PM): Roberta — organiza o planejamento e acompanha o trabalho.
-- Desenvolvedor(a): Roberta — planeja a implementação e valida as funcionalidades.
-
-Este é um projeto acadêmico fictício. Os papéis são simulados individualmente.
+## Organização
+- Quadro: GitHub Projects (link aqui)
+- Épicos: 2 | Histórias: 6
+- Sprint 1: 14 story points
